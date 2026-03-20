@@ -1,16 +1,24 @@
-## Hi there 👋
+# Valentin Zhukovetski
+Systems Engineering | Bioinformatics Tooling
 
-<!--
-**Zhukovetski/Zhukovetski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+My background is in Biotechnology, with nearly two years of practical experience in a wet lab. Experiencing the infrastructural bottlenecks of bioinformatics data pipelines firsthand, combined with an affinity for solving extreme logistical constraints in complex resource simulations (e.g., Factorio Pyanodon), drove my transition into systems engineering.
 
-Here are some ideas to get you started:
+I prioritize rapid skill acquisition and result-driven development. My first major project, [HydraStream](https://github.com/Zhukovetski/HydraStream), was built from scratch in one month to solve a specific domain problem. This required adapting to asynchronous networking, `uvloop`, POSIX I/O operations (`os.pwrite`), AIMD congestion control, and CI/CD chaos engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus & Roadmap
+My primary interest lies in building high-load, fault-tolerant infrastructure and replacing legacy bioinformatics pipelines with fast, compiled alternatives.
+
+- **Rust Adoption:** Porting the HydraStream core to Rust (`tokio`/`reqwest`) to bypass the Python GIL and achieve true multi-threading.
+- **The "Hydra" Suite:** Developing a suite of high-performance tools aimed at rewriting legacy bioinformatics and data-engineering utilities. The goal is to bring the "Ruff philosophy" (extreme speed via Rust) to bioinformatics.
+
+## Technical Scope
+- **Languages:** Python (asyncio, uvloop, strict typing). Currently transitioning to Rust.
+- **Architecture:** Data-Oriented Design, memory-safe buffers, lock-free I/O.
+- **Networking:** TCP/HTTP multiplexing, flow control algorithms.
+- **Domain Knowledge:** Biotechnology, wet lab operations, bioinformatics data processing.
+
+## Status & Contact
+- **Current Role:** Biotechnologist / Laboratory Assistant at Belarusian State Technological University (BSTU), Minsk.
+- **Availability:** Completing mandatory state assignment. Open for full-time roles, remote work, or relocation starting **August 1, 2026**.
+- **Email:** zukovetski@gmail.com
