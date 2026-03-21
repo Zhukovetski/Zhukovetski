@@ -2,7 +2,7 @@
 Systems Engineering | Bioinformatics Tooling
 
 ## Overview
-My background is in Biotechnology, with nearly two years of practical experience in a wet lab. Experiencing the infrastructural bottlenecks of bioinformatics data pipelines firsthand, combined with an affinity for solving extreme logistical constraints in complex resource simulations (e.g., Factorio Pyanodon), drove my transition into systems engineering.
+My background is in Biotechnology, with nearly two years of practical experience in a wet lab. My domain knowledge of biological processes, combined with an affinity for solving extreme logistical bottlenecks in complex systems (e.g., Factorio Pyanodon), motivated my transition into systems engineering and high-performance tooling.
 
 I prioritize rapid skill acquisition and result-driven development. My first major project, [HydraStream](https://github.com/Zhukovetski/HydraStream), was built from scratch in one month to solve a specific domain problem. This required adapting to asynchronous networking, `uvloop`, POSIX I/O operations (`os.pwrite`), AIMD congestion control, and CI/CD chaos engineering.
 
