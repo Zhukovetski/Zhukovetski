@@ -16,7 +16,7 @@ My primary interest lies in building high-load, fault-tolerant infrastructure an
 - **Languages:** Python (asyncio, uvloop, strict typing). Currently transitioning to Rust.
 - **Architecture:** Data-Oriented Design, memory-safe buffers, lock-free I/O.
 - **Networking:** TCP/HTTP multiplexing, flow control algorithms.
-- **Domain Knowledge:** Biotechnology, wet lab operations, bioinformatics data processing.
+- **Domain Knowledge:** Biotechnology, wet lab operations.
 
 ## Status & Contact
 - **Current Role:** Biotechnologist / Laboratory Assistant at Belarusian State Technological University (BSTU), Minsk.
